@@ -1,0 +1,14 @@
+.chopin {
+  background-color: rgb(221, 99, 119);
+  font-family: Verdana, 'Dejavu-sans', sans-serif;
+}
+#lizst {
+  color: blue;
+  font-size: 36px;
+}
+.focus {
+  font-size: 24px;
+}
+#green {
+  background-color: rgb(10, 202, 10);
+}
